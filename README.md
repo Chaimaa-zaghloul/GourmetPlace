@@ -1,37 +1,35 @@
 # GourmetPlace - Restaurant Website
 
-Welcome to the official repository for GourmetPlace, a dynamic and interactive restaurant website designed using PHP, HTML, and CSS. This site includes several features to enhance the dining experience of our guests by providing detailed information online. This project is kept simple as it marks my first endeavor into web development, focusing on fundamental features and design.
+Welcome to the GourmetPlace repository, a simple yet engaging restaurant website created with PHP, HTML, and CSS. The website offers an enhanced online dining experience with core features for easy navigation. As my first web development project, it focuses on essential functionalities and clean design.
 
-![Restaurant Homepage](https://github.com/Chaimaa-zaghloul/GourmetPlace/blob/main/GourmetPlace/img/1.png)
-*Image of the homepage of GourmetPlace*
+![Restaurant Homepage](https://github.com/Chaimaa-zaghloul/GourmetPlace/blob/main/GourmetPlace/img/1.png)  
+*Screenshot of the GourmetPlace homepage*
 
 ## Features
 
-- **Home**: The landing page that welcomes visitors and provides a brief introduction to our restaurant.
-- **Reservation**: Allows customers to book tables online. Includes date, time, and special request options.
-- **Menu**: Showcases our diverse culinary offerings with detailed descriptions and enticing images.
-- **Events**: Information on upcoming events and special evenings hosted at the restaurant.
-- **About Us**: Shares the story of our restaurant, our culinary philosophy, and introduces our team.
-- **Config**: A back-end configuration page to manage website settings (not accessible to the public).
+- **Home**: Welcomes visitors with a brief introduction to the restaurant.
+- **Reservations**: Allows guests to reserve tables online with options for date, time, and special requests.
+- **Menu**: Displays our dishes with descriptions and images.
+- **Events**: Lists upcoming events and special occasions hosted at the restaurant.
+- **About Us**: Tells the restaurant's story, mission, and introduces the team.
+- **Config**: Backend page for managing site settings (restricted access).
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+Follow these steps to run the project locally for development or testing purposes.
 
-### Prerequisites
+### Requirements
 
-You will need:
-- PHP 7.4 or newer.
-- Apache or Nginx web server.
-- MySQL or any preferred SQL database for managing reservations and menu items (optional).
+- PHP 7.4 or higher
+- Apache or Nginx web server
+- Optional: MySQL or another SQL database for storing reservations and menu items
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/GourmetPlace.git
    cd GourmetPlace
-   ```
 
 2. **Web Server Configuration**
 
@@ -68,12 +66,13 @@ You will need:
 
 3. **Start your web server** and visit `http://gourmetplace.local` in your browser to view the site.
 
-## Built With
+## Technologies Used
 
-- **HTML** - Structure of the web pages.
-- **CSS** - Styling of the web components.
-- **PHP** - Backend logic and server-side integration.
+- **HTML**  for page structure
+- **CSS** for styling
+- **PHP** for server-side logic
 
 ## Authors
 
 - **NOUIH Omar** - *Initial work* - [OmarNouih](https://github.com/OmarNouih)
+- **ZAGHLOUL Chaimaa** - *Initial work* - [Chaimaa-zaghloul](https://github.com/Chaimaa-zaghloul)
